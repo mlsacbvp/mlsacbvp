@@ -1,5 +1,5 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-
+![Name](Group1.png)
 
 
  ### Profile Views :<br>
