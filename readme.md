@@ -16,7 +16,7 @@
 - 🌱 We are currently focusing on  <strong>Data Technologies!</strong>
 - 🔍 We are always big on collaborating with <strong>Design and Tech Enthusiasts</strong>
 - 💬 Ask us about <strong>DSA, Web Dev, Data Science, Machine Learning, Artificial Intelligence </strong>
-- ⚡ Fun fact: I can talk 24/7 about football.
+- ⚡ Fun fact: I can talk 24/7 about <strong>Food</strong>.
 
 
 ### - Languages and Tools...
