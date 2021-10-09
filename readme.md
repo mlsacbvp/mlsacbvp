@@ -21,6 +21,29 @@
 ### Tools I work upon : 🛠
 
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+### - Languages and Tools...
+
+<p align="center">
+  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"  alt="datascience" style="vertical-align:top; margin:4px" >
+  <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"  alt="datascience" style="vertical-align:top; margin:4px" > 
+  <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" > 
+   <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+    <img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"  alt="datascience" style="vertical-align:top; margin:4px" >
+
+   
+<p align="center"><img align="center" height="200px" width="200px" alt="GIF" src="https://media4.giphy.com/media/lnJ2TVXSgCGNC0Nxyn/giphy.gif?cid=ecf05e47qtffg5m9x3d0k914ywilwf4jjfngqeaq9p2ihsy0&rid=giphy.gif&ct=g" />
+<p align="center"></p>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=mlsacbvp&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
