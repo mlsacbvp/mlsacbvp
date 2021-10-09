@@ -1,5 +1,5 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-![alt text](https://github.com/mlsacbvp/mlsacbvp/blob/master/Group 1.png?raw=true)
+![alt text](https://github.com/mlsacbvp/mlsacbvp/blob/master/name.png?raw=true)
 
 
  ### Profile Views :<br>
