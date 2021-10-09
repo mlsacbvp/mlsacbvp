@@ -1,5 +1,5 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Name.png)
+
 
 
  ### Profile Views :<br>
@@ -8,14 +8,14 @@
 
 ### How to reach me: <strong>(Connect with us for Design, Code, fun & Subways)</strong>
 
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mlscbvp@gmail.com">   <a  href="https://www.instagram.com/mlsac_Bvcoe/"><img src="https://img.shields.io/badge/@mlsac_Bvcoe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="www.linkedin.com/company/microsoft-learn-student-chapter-mlsc-bvp/"><img src="https://img.shields.io/badge/MLSAC-BVP-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://medium.com/@yobasu2015"><img src="https://img.shields.io/badge/@yobasu2015-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<img src="https://img.shields.io/badge/mlscbvp@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mlscbvp@gmail.com">   <a  href="https://www.instagram.com/mlsac_Bvcoe/"><img src="https://img.shields.io/badge/@mlsac_Bvcoe-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="www.linkedin.com/company/microsoft-learn-student-chapter-mlsc-bvp/"><img src="https://img.shields.io/badge/MLSAC-BVP-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://twitter.com/@mlscBvp"><img src="https://img.shields.io/badge/@mlscBvp-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 ### Here are some ideas to help you get started:
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
-- 🌱 I’m currently learning <strong>React JS</strong>
-- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
-- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
+- 🔭 We are  currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
+- 🌱 We are currently focusing on  <strong>Data Technologies!</strong>
+- 🔍 We are always big on collaborating with <strong>Design and Tech Enthusiasts</strong>
+- 💬 Ask us about <strong>DSA, Web Dev, Data Science, Machine Learning, Artificial Intelligence </strong>
 - ⚡ Fun fact: I can talk 24/7 about football.
 
 ### Tools I work upon : 🛠
@@ -24,4 +24,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mlsacbvp&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-⭐️ From [sharannyobasu](https://github.com/mlsacbvp)
+⭐️ From [mlsacBvp](https://github.com/mlsacbvp)
